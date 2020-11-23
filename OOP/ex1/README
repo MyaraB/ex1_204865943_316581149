@@ -1,0 +1,11 @@
+Project ex1 is made up of 3 interfaces and 3 classes.
+the class NodeInfo is a class withing WGraph_DS
+
+this project mainly focuses on weighted graphs.
+we are able to create nodes, weighted graphs and weighted graph algo.
+the edges between two nodes stores a Double value.
+
+we are able to get and set node info,tags. we are able to add and remove nodes to graphs.
+we can also connect or disconnect two nodes with an edge.
+by using the weighted graph algo we can find the shortest distance between two graphs and can also get the exact
+list of nodes in the shortest path from node a to b.  
